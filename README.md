@@ -6,3 +6,9 @@ petit dossier, qui regroupe différents projets et tests!
 - hamb en JS.
 
 - jeu de shi fu mi version JS.
+
+
+My stuffs, some pratcice and projects:
+- toggle code to train for hamburger menu;
+- hamburger menu in JS;
+- rock paper & cisors game WIP for the moment 05/2022 
